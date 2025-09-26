@@ -104,7 +104,7 @@ export default function Portfolio() {
               <a href="https://github.com/StarJors" className="inline-flex items-center gap-2 hover:underline">
                 <Github size={18} /> GitHub
               </a>
-              <a href="#" className="inline-flex items-center gap-2 hover:underline">
+              <a href="https://www.linkedin.com/in/jos%C3%A9-orlando-rivero-su%C3%A1rez-94b8601b8/" className="inline-flex items-center gap-2 hover:underline">
                 <Linkedin size={18} /> LinkedIn
               </a>
             </div>
@@ -195,13 +195,13 @@ export default function Portfolio() {
               Abierto a roles remotos. Escríbeme para colaborar en productos web con Django, análisis de datos o despliegues.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
-              <a href="mailto:rivero@example.com" className="inline-flex items-center gap-2 rounded-2xl px-4 py-2 border shadow-sm hover:shadow transition">
-                <Mail size={16} /> rivero@example.com
+              <a href="mailto:joseriverosuarez95@gmail.com" className="inline-flex items-center gap-2 rounded-2xl px-4 py-2 border shadow-sm hover:shadow transition">
+                <Mail size={16} /> joseriverosuarez95@gmail.com
               </a>
               <a href="https://github.com/StarJors" className="inline-flex items-center gap-2 rounded-2xl px-4 py-2 border shadow-sm hover:shadow transition">
                 <Github size={16} /> GitHub
               </a>
-              <a href="#" className="inline-flex items-center gap-2 rounded-2xl px-4 py-2 border shadow-sm hover:shadow transition">
+              <a href="https://www.linkedin.com/in/jos%C3%A9-orlando-rivero-su%C3%A1rez-94b8601b8/" className="inline-flex items-center gap-2 rounded-2xl px-4 py-2 border shadow-sm hover:shadow transition">
                 <Linkedin size={16} /> LinkedIn
               </a>
             </div>
@@ -209,7 +209,7 @@ export default function Portfolio() {
         </section>
 
         <footer className="py-10 text-center text-xs text-zinc-500">
-          © {new Date().getFullYear()} José O. Rivero • Hecho con React + Tailwind
+          © {new Date().getFullYear()} Starjors • Hecho con React + Tailwind
         </footer>
       </div>
     </div>
