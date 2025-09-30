@@ -27,7 +27,7 @@ export default function Portfolio() {
           <a href="#proyectos" className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
             Ver proyectos ➜
           </a>
-          <a href="/CV_Jose_Orlando_Rivero_Suarez.pdf" download className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
+          <a href="https://drive.google.com/file/d/1LjCHXzAv0AQ-i8HgXl18iZEDTsWC-k3v/view?usp=drive_link" download className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
             ⬇️ Descargar CV
           </a>
           <a href="mailto:joseriverosuarez95@gmail.com" className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
@@ -147,8 +147,8 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold tracking-tight">¿Trabajamos juntos?</h2>
           <p className="mt-2 text-zinc-600">Disponible para roles remotos y proyectos Django.</p>
           <div className="mt-6 flex flex-wrap gap-3">
-            <a href="joseriverosuarez95@gmail.com" className="rounded-2xl px-4 py-2 border shadow-sm hover:shadow">✉️ Enviame un correo</a>
-            <a href="mailto:https://github.com/StarJors" target="_blank" rel="noreferrer" className="rounded-2xl px-4 py-2 border shadow-sm hover:shadow">GitHub</a>
+            <a href="mailto:joseriverosuarez95@gmail.com" className="rounded-2xl px-4 py-2 border shadow-sm hover:shadow">✉️ Enviame un correo</a>
+            <a href="https://github.com/StarJors" target="_blank" rel="noreferrer" className="rounded-2xl px-4 py-2 border shadow-sm hover:shadow">GitHub</a>
             <a href="https://www.linkedin.com/in/starjors" target="_blank" rel="noreferrer" className="rounded-2xl px-4 py-2 border shadow-sm hover:shadow">LinkedIn</a>
           </div>
         </div>
