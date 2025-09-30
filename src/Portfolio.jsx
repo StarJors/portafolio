@@ -27,7 +27,7 @@ export default function Portfolio() {
           <a href="#proyectos" className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
             Ver proyectos ➜
           </a>
-          <a href="https://drive.google.com/file/d/1LjCHXzAv0AQ-i8HgXl18iZEDTsWC-k3v/view?usp=drive_link" download className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
+          <a href="https://drive.google.com/file/d/1LjCHXzAv0AQ-i8HgXl18iZEDTsWC-k3v/view?usp=drive_link" target="_blank" download className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
             ⬇️ Descargar CV
           </a>
           <a href="mailto:joseriverosuarez95@gmail.com" className="inline-flex items-center rounded-2xl px-4 py-2 border shadow-sm hover:shadow bg-white">
